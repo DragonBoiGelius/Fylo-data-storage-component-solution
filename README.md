@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/fylo-data-storage-component-PaeqdnIJl-)
-- Live Site URL: [Live site URL]([https://your-live-site-url.com](https://fylo-data-storage-component-plum-nu.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/fylo-data-storage-component-PaeqdnIJl-)
+- Live Site URL: [Live site URL](https://fylo-data-storage-component-plum-nu.vercel.app/)
 
 ### Built with
 
